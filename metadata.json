@@ -1,0 +1,5 @@
+{
+  "name": "RealTime48",
+  "description": "Platform streaming real-time dengan fitur chat global, viewer count, dan admin panel.",
+  "requestFramePermissions": []
+}
